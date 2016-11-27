@@ -1,2 +1,2 @@
 # project-management
-contains files for project management android app
+Contains files for management of android app project
